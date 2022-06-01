@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Currently I'm studying web development, in the future I intend to study back-end and become a fullstack developer.
+- 🔭 Currently I'm doing some jobs in web development area, in the near future i intend to study back-end and become a fullstack developer.
 - 🌱 Currently I'm study studying HTML - CSS - JAVASCRIPT
 - 💬 I always love a feedback, it helps me get better, and i can always learn and get a better person from it!
 - 😄 HE/HIM
