@@ -3,8 +3,8 @@
 
 
 
-- 🔭 Currently I'm doing some jobs in web development area, in the near future i intend to study back-end and become a fullstack developer.
-- 🌱 Currently I'm study studying HTML - CSS - JAVASCRIPT
+- 💻 Techs i already have made some projects HTML5 / CSS3 / Javascript / Nodejs / REACT 
+- 🌱 Now i am studying REACTjs and REACT Native
 - 💬 I always love a feedback, it helps me get better, and i can always learn and get a better person from it!
 - 😄 HE/HIM
 - ⚡ Fun fact: I love to go to the movies with my friends, and i love to play videogames, i love system that rewards studying. I'm always funny and make some amusement to the people around me. 🤡🎮🤠
